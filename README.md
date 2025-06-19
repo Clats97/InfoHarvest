@@ -11,7 +11,7 @@ This Python script is a comprehensive tool designed to extract and display conta
 
 ## Purpose
 
-The primary use of this script is in Open Source Intelligence (OSINT), digital marketing, customer relations management, competitive analysis, or investigative tasks requiring the identification and cataloging of contact details from various online sources.
+The primary use of this script is for Open Source Intelligence (OSINT), digital marketing, customer relations management, competitive analysis, or investigative tasks that require identification and cataloguing of contact details from various online sources.
 
 ## Key Features
 
