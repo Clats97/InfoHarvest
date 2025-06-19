@@ -3,7 +3,9 @@ A simple contact info scraping tool written in Python and available as an execut
 
 # Website Contact Info Scraper
 
-## Overview
+#![Screenshot 2025-06-19 141011](https://github.com/user-attachments/assets/107bad4d-a1c0-4da4-a818-419d31d71c28)
+
+# Overview
 
 This Python script is a comprehensive tool designed to extract and display contact information from websites. It retrieves phone numbers, fax numbers, email addresses, and social media profile URLs directly from a given website's HTML content.
 
